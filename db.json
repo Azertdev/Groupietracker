@@ -1,5 +1,5 @@
-[{"id":1,"image":"https://groupietrackers.herokuapp.com/api/images/queen.jpeg","name":"Queen","members":["Freddie Mercury","Brian May","John Daecon","Roger Meddows-Taylor","Mike Grose","Barry Mitchell","Doug Fogie"],"firstAlbum":"14-12-1973"}
-,{"id":2,"image":"https://groupietrackers.herokuapp.com/api/images/soja.jpeg","name":"SOJA","members":["Jacob Hemphill","Bob Jefferson","Ryan \"Byrd\" Berty","Ken Brownell","Patrick O'Shea","Hellman Escorcia","Rafael Rodriguez","Trevor Young"],"firstAlbum":"05-06-2002"},
-{"id":3,"image":"https://groupietrackers.herokuapp.com/api/images/pinkfloyd.jpeg","name":"Pink Floyd","members":["David Gilmour","Syd Barrett","Roger Waters","Richard Wright","Nick Manson","Bob Klose"],"firstAlbum":"05-08-1967"},
-{"id":4,"image":"https://groupietrackers.herokuapp.com/api/images/scorpions.jpeg","name":"Scorpions","members":["Klaus Meine","Rudolf Schenker","Matthias Jabs","Pawel Maciwoda","Mikkey Dee"],"firstAlbum":"21-04-1979"},
-{"id":5,"image":"https://groupietrackers.herokuapp.com/api/images/xxxtentacion.jpeg","name":"XXXTentacion","members":["Jahseh Dwayne Ricardo Onfroy"],"firstAlbum":"07-09-2017"}]
+[{"id":1,"name":"Queen","members":["Freddie Mercury","Brian May","John Daecon","Roger Meddows-Taylor","Mike Grose","Barry Mitchell","Doug Fogie"],"firstAlbum":"14-12-1973"}
+,{"id":2,"name":"SOJA","members":["Jacob Hemphill","Bob Jefferson","Ryan \"Byrd\" Berty","Ken Brownell","Patrick O'Shea","Hellman Escorcia","Rafael Rodriguez","Trevor Young"],"firstAlbum":"05-06-2002"},
+{"id":3,"name":"Pink Floyd","members":["David Gilmour","Syd Barrett","Roger Waters","Richard Wright","Nick Manson","Bob Klose"],"firstAlbum":"05-08-1967"},
+{"id":4,"name":"Scorpions","members":["Klaus Meine","Rudolf Schenker","Matthias Jabs","Pawel Maciwoda","Mikkey Dee"],"firstAlbum":"21-04-1979"},
+{"id":5,"name":"XXXTentacion","members":["Jahseh Dwayne Ricardo Onfroy"],"firstAlbum":"07-09-2017"}]
