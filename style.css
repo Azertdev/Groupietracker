@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+	max-width: 1200px;
+	margin: auto;
+	padding: 16px;
+	font-family: 'Montserrat', sans-serif;
+}
+
+.box-artists{
+    flex: 1;
+	margin: 8px;
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 4px;
+    border: 1px solid black;
+}
+
+.box-artists article {
+	border: 1px solid black;
+	padding: 4px;
+}
+.box-artists article img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 200px;
+}
+.box-artists article p {
+	margin-top: 4px;
+	margin-bottom: 4px;
+}
+.box-artists article h2 {
+	text-align: center;
+}
